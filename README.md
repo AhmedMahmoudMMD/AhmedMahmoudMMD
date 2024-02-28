@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="auto" alt="GIF from Giphy">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" height="auto" alt="GIF from Giphy">
 
 
 
