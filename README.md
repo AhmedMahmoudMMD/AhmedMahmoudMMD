@@ -26,13 +26,10 @@
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-
-
-
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
