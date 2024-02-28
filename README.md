@@ -12,7 +12,7 @@
 
 - 🏢 I'm a Front-end Engineer, a student, and an intern at Almadrsa
 - 👨‍💻 As a programming student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS , or anything related to Front-end development.
+- 💬 Ask me about my experience with JavaScript , or anything related to Front-end development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my Linkedin account at www.linkedin.com/in/ahmedmahmoud-mmd-profile to see some of the projects I've worked on.
 
