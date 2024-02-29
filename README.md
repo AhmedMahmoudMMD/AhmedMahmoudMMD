@@ -18,7 +18,7 @@
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=50px>
  
 ### Connect with Me :
-<a href="https://www.linkedin.com/in/ahmedmahmoud-mmd-profile" target="_blank">
+<a href="https://www.linkedin.com/in/ahmedmahmoud-mmd-profile" target="_blank" margin-top="0" >
   <img src="https://img.shields.io/badge/-Ahmed%20Mahmoud-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 
