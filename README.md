@@ -29,12 +29,11 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
+## 📘 &nbsp;Learning
+[[![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- Currently diving deeper into advanced JavaScript concepts and frameworks.
+
 ## 📈 &nbsp;GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-## 📘 &nbsp;Learning
-[![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- Currently diving deeper into advanced JavaScript concepts and frameworks.
 
-Feel free to connect and explore my projects. Let's build something amazing together!
-ct and explore my projects. Let's build something amazing together!
