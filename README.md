@@ -10,7 +10,7 @@
   </p>
 
   <ul style="list-style-type:none; padding: 0; margin-left : 0;">
-    <li>🏢 <strong>Current Position:</strong> Front-end Engineer at Almadrsa</li>
+    <li style = " margin-left : 0;">🏢 <strong>Current Position:</strong> Front-end Engineer at Almadrsa</li>
     <li>👨‍💻 <strong>Aspirations:</strong> Constantly learning and exploring new technologies to improve my skills.</li>
     <li>💬 <strong>Expertise:</strong> JavaScript, HTML, CSS, Sass, Git, GitHub</li>
     <li>⚡ <strong>Fun Fact:</strong> I'm a coffee enthusiast; my perfect day starts and ends with a cup of coffee.</li>
