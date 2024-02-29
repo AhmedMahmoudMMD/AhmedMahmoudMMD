@@ -10,11 +10,11 @@
   </p>
 </div>
 
-- 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
+- 🏢 I'm a Front-end Engineer, a student, and an intern at Almadrsa.
+- 👨‍💻 As a programming student, I'm constantly learning and exploring new technologies to improve my skills..
+- 💬 Feel free to ask me about my experience with HTML, CSS, Sass, or anything related to web development. I'm currently learning JavaScript 
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
+- 👨‍💻 Check out my LinkedIn profile at www.linkedin.com/in/ahmedmahmoud-mmd-profile to see some of the projects I've worked on
   <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="1000px" height="50px">
 
 ## Connect with Me:
