@@ -21,14 +21,6 @@
 <a href="https://www.linkedin.com/in/ahmedmahmoud-mmd-profile" target="_blank">
   <img src="https://img.shields.io/badge/-Ahmed%20Mahmoud-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-<a href="mailto:01115822559ahmedmmd@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" style="width: 164px; height: auto; max-height: 28px;"/>
-</a>
-
-
-
-
-
 
 ## 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
