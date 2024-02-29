@@ -3,17 +3,13 @@
 
   <h2>Welcome to Ahmed Mahmoud's Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
 
-  <p>
-    Hi there! I'm Ahmed Mahmoud, a passionate Front-end Engineer, student, and intern at Almadrsa. I specialize in creating dynamic and responsive web applications.
-  </p>
-
-  <p>
-    💼 **Current Position:** Front-end Engineer at Almadrsa<br>
-    🚀 **Aspirations:** Constantly learning and exploring new technologies to enhance my skills.<br>
-    💡 **Expertise:** JavaScript, HTML, CSS, Sass, Git, GitHub<br>
-    ☕ **Fun Fact:** I'm a coffee enthusiast; my perfect day starts and ends with a cup of coffee.<br>
-    🌐 **Explore more:** [LinkedIn](https://www.linkedin.com/in/ahmedmahmoud-mmd-profile)
-  </p>
+  <ul>
+    <li>💼 <strong>Current Position:</strong> Front-end Engineer at Almadrsa</li>
+    <li>🚀 <strong>Aspirations:</strong> Constantly learning and exploring new technologies to enhance my skills.</li>
+    <li>💡 <strong>Expertise:</strong> JavaScript, HTML, CSS, Sass, Git, GitHub</li>
+    <li>☕ <strong>Fun Fact:</strong> I'm a coffee enthusiast; my perfect day starts and ends with a cup of coffee.</li>
+    <li>🌐 <strong>Explore more:</strong> <a href="https://www.linkedin.com/in/ahmedmahmoud-mmd-profile" target="_blank">LinkedIn</a></li>
+  </ul>
 
   <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="1000px" height="50px">
 </div>
