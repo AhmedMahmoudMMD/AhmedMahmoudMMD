@@ -1,13 +1,21 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="300" height="auto" alt="GIF from Giphy">
+  <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-  <h2>Welcome to Ahmed Mahmoud's Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
+  <h3>Welcome to Ahmed Mahmoud's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 
-  💼 <strong>Current Position:</strong> Front-end Engineer at Almadrsa<br>
-  🚀 <strong>Aspirations:</strong> Constantly learning and exploring new technologies to enhance my skills.<br>
-  💡 <strong>Expertise:</strong> JavaScript, HTML, CSS, Sass, Git, GitHub<br>
-  ☕ <strong>Fun Fact:</strong> I'm a coffee enthusiast; my perfect day starts and ends with a cup of coffee.<br>
-  🌐 <strong>Explore more:</strong> <a href="https://www.linkedin.com/in/ahmedmahmoud-mmd-profile" target="_blank">LinkedIn</a>
+  <p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+    </a>
+  </p>
+
+  <ul style="list-style-type:none; padding: 0;">
+    <li>🏢 <strong>Current Position:</strong> Front-end Engineer at Almadrsa</li>
+    <li>👨‍💻 <strong>Aspirations:</strong> Constantly learning and exploring new technologies to improve my skills.</li>
+    <li>💬 <strong>Expertise:</strong> JavaScript, HTML, CSS, Sass, Git, GitHub</li>
+    <li>⚡ <strong>Fun Fact:</strong> I'm a coffee enthusiast; my perfect day starts and ends with a cup of coffee.</li>
+    <li>🌐 <strong>Explore more:</strong> <a href="https://www.linkedin.com/in/ahmedmahmoud-mmd-profile" target="_blank">LinkedIn</a></li>
+  </ul>
 
   <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="1000px" height="50px">
 </div>
@@ -26,7 +34,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ## 🚀 &nbsp;Projects
-- [Project 1: Client Website](https://github.com/yourusername/project1): Description of the project.<br>
+- [Project 1: Client Website](https://github.com/yourusername/project1): Description of the project.
 - [Project 2: E-commerce App](https://github.com/yourusername/project2): Description of the project.
 
 ## 📈 &nbsp;GitHub Stats
@@ -36,3 +44,4 @@
 - Currently diving deeper into advanced JavaScript concepts and frameworks.
 
 Feel free to connect and explore my projects. Let's build something amazing together!
+ct and explore my projects. Let's build something amazing together!
