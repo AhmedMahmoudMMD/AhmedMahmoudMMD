@@ -1,6 +1,6 @@
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" width="350" height="auto" alt="GIF from Giphy">
-<h3 align="center" widht:100%>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" margin="0 auto"  align="center" width="350" height="auto" alt="GIF from Giphy">
+<h3 align="center" widht="100%">
   Welcome to Ahmed Mahmoud's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
