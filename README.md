@@ -9,7 +9,7 @@
     </a>
   </p>
 
-  <ul style="list-style-type:none; padding: 0;">
+  <ul style="list-style-type:none; padding: 0; margin-left : 0;">
     <li>🏢 <strong>Current Position:</strong> Front-end Engineer at Almadrsa</li>
     <li>👨‍💻 <strong>Aspirations:</strong> Constantly learning and exploring new technologies to improve my skills.</li>
     <li>💬 <strong>Expertise:</strong> JavaScript, HTML, CSS, Sass, Git, GitHub</li>
