@@ -5,12 +5,12 @@
 
   <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=FrontEnd%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
     </a>
   </p>
 </div>
 
-- 🏢 I'm a Front-end Engineer, a student, and an intern at Almadrsa.
+- 🏢 I'm a Frontend Developer, currently studying at FreeCodeCamp and Elzero Web School .
 - 👨‍💻 As a programming student, I'm constantly learning and exploring new technologies to improve my skills..
 - 💬 Feel free to ask me about my experience with HTML, CSS, Sass, or anything related to web development. I'm currently learning JavaScript 
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
